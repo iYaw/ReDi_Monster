@@ -6,9 +6,31 @@
     margin-top: 100px;
     padding: 200px;
     padding-bottom:200px;
-    background-image: url(file:///C:/Users/admin/Desktop/rDi_FEDwJS-lesson-2-master-2/if-else-monsters-complete/monster.jpg);
-    color: red;
+    background-color: lightblue;
+    color: black;
+        padding-left: 120px;
 
+}
+
+.container a:hover{
+	color: blue;
+	text-decoration: none;
+	transition: color 600ms;
+    background-color: pink;
+    font-size: 100px;
+}
+
+#conq {
+    background-color: darksalmon;
+    
+    padding-left: 20px;
+    margin-right: 0px;
+    width: 920px;
+    padding-right: 60px;
+}
+
+.a{
+    font-size: 2em;
 }
 
 
